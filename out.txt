@@ -1,6 +1,6 @@
 SW 41/2014 Momir Kostic
 file	sum
-video-0.avi	-28
+video-0.avi	-25
 video-1.avi	-18
 video-2.avi	-5
 video-3.avi	-65
